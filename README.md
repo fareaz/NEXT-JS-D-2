@@ -9,11 +9,10 @@ git clone https://github.com/fareaz/NEXT-JS-D-1.git
 cd NEXT-JS-D-1
 Install dependencies:
 
-bash
-Copy code
+```bash
 npm install
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
